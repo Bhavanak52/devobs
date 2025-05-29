@@ -1,3 +1,4 @@
+
 # Python program to find the largest number among the three input numbers
 
 # change the values of num1, num2 and num3
@@ -5,6 +6,10 @@
 num1 = 10
 num2 = 14
 num3 = 12
+
+# Store input numbers
+num1 = input('Enter first number: ')
+num2 = input('Enter second number: ')
 
 # uncomment following lines to take three numbers from user
 #num1 = float(input("Enter first number: "))
@@ -20,3 +25,8 @@ else:
 
 print("The largest number is", largest)
 print("LARGEST OF THREE")
+# Store input numbers
+num1 = input('Enter first number: ')
+num2 = input('Enter second number: ')
+
+
